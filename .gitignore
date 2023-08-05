@@ -1,4 +1,7 @@
+/node_modules/
+
 /nodemon.json
 /request.html
+
+/keys.ts
 /request.ts
-/node_modules/
